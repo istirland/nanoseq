@@ -1,0 +1,1 @@
+nextflow run nf-core/nanoseq --input /data/sirv/nextflow/sirv_nf-rnaseq_sample_sheet_1.csv --protocol cDNA --skip_demultiplexing --skip_alignment --jaffal_ref_dir /data/sirv/nextflow/refs/jaffal -profile docker
